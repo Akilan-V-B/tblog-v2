@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Proxima+Nova');
+
+.add-container {
+  font-family: Proxima Nova;
+  max-width: 350px;
+  margin: 0 auto;
+  margin-top: 100px;
+  padding: 20px;
+  background: rgba(245, 80, 9, 0.5);
+  border-radius: 30px;
+
+}
+
+.add-container h1 {
+  text-align: center;
+}
+
+.add-container input[type="text"],
+.add-container input[type="email"],
+.add-container input[type="password"],
+.add-container textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+
+.add-container button {
+  width: 100%;
+  padding: 10px;
+  background-color: rgb(241, 130, 56);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.reg-alredy {
+  font-family: 'Proxima Nova';
+}
+.add-container ::placeholder{
+  font-family: Proxima Nova;
+}

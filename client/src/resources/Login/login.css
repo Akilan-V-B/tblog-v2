@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Proxima+Nova');
+.con {
+    font-family: Proxima Nova;
+    max-width: 350px;
+    margin: 0 auto;
+    margin-top: 150px;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 30px;
+}
+
+.con h2 {
+    text-align: center;
+}
+
+.con input[type="text"],
+.con input[type="email"],
+.con input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.con button {
+    width: 100%;
+    padding: 10px;
+    background-color: #AEE2FF;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}

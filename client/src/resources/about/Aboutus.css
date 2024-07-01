@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Proxima+Nova');
+.aboutus-box{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.aboutus-box1 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.aboutus-boxh1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    padding: 10px;
+    color: white;
+    font-family:Proxima Nova;
+}
+
+.aboutus-boxp {
+    font-size: 20px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+    color: #FDFEFE ;
+    font-family:Proxima Nova;
+}

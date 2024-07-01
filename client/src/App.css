@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Proxima+Nova');
+body{
+  background-image: url('images/ho.jpg');
+  font-family: Proxima Nova;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px;
+  padding: 0px;
+}
