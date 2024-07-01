@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Proxima+Nova');
+
+/* .top {
+    height: 90px;
+    background-color: rgba(255, 170, 102, 1.00);
+    border: 0px;
+    padding-top: 20px;
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+} */
+
+/* ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    opacity: 0.7;
+    display: flex;
+    height: 52px;
+    font-family: Proxima Nova;
+} */
+
+/* ul.navbar li {
+    float: right;
+
+} */
+/* .nav-logo{
+    margin:15px;
+    margin-top: 0px;
+} */
+
+/* ul.navbar li a {
+    font-family: Proxima Nova;
+    font-size: 20px;
+    display: block;
+    color: #25316D;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-right: 10px;
+} */
+
+/* ul.navbar li a:hover {
+    background-color: #111;
+} */
+
+#logo {
+    height: 40px;
+    width: 120px;
+}
+.top-nav{
+    /* border: 0px; 
+    background-color: rgba(255, 170, 102, 1.00);
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    font-family: 'Proxima Nova';
+    font-size: 22px;
+    height: 70px;
+    margin: 0;
+    padding: 0; */
+  /* border: 10px solid rgba(255, 170, 102, 1.00);  */
+  /* background-color: rgba(255, 170, 102, 1.00); */
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+  /* box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px; */
+  font-family: 'Proxima Nova';
+  font-size:22px;
+  height: fit-content;
+  margin: 0px;
+  padding: 0px;
+}
+
+.inner-top {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px;
+    padding:0px;
+}
+
+.inner-top li {
+    margin-left: 50px;
+    margin-right: 20px;
+    text-decoration: none;
+    cursor: pointer;
+    /* padding: 5px;
+    margin: 5px;
+    border-radius: 5px; */
+}
+
+.inner-top li:first-child {
+    margin-right: auto;
+    margin-left: 10px;
+}
+.inner-top li:hover{
+    background-color:rgba(204, 17, 17, 0.09);
+    border-radius:30px;
+    transition: background-color 0.3s ease-in-out cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+.inner-top a {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+/* .foot {
+    background-color: #9ac5f4;
+    color: #fff;
+    padding: 10px;
+    padding-top: 15px;
+    text-align: center;
+    margin-top: auto;
+    height: 20px;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    opacity: 0.7;
+} */
+
+/* .footer_p {
+    color: black;
+    margin: 0;
+    font-size: 14px;
+} */
+
+
+
+
+/* .butt:hover {
+    background-color: rgb(241, 130, 56);
+} */
+
+/* .logodiv{
+      font-size: 25px;
+      padding: 10px;
+      margin: 10px;
+      margin-bottom: 5px;
+      padding-bottom: 5px;
+    } */
+/* .navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(154, 197, 244, 0);
+    opacity: 0.7;
+    display: flex;
+    justify-content: flex-end;
+    height: 52px;
+    font-family: Proxima Nova;
+}
+
+.navbar li {
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 30px;
+}
+
+.navbar li:first-child {
+    margin-left: 0;
+    margin-right: auto;
+}
+
+ul.navbar li a {
+    font-family: Proxima Nova;
+    font-size: 22px;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: background-color 0.3s ease-in-out cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+ul.navbar li a:hover {
+    background-color: rgb(241, 130, 56);
+    border-radius: 30px;
+
+} */
+
+
+/*   
+  .inner-top a:hover{
+    color: grey;
+  } */
+/* .nav-logo {
+    margin-left: 10px;
+    margin-bottom: 5px;
+} */
